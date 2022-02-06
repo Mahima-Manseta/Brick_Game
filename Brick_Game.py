@@ -26,7 +26,7 @@ size=(600,600)
 screen=pygame.display.set_mode(size)
 pygame.display.set_caption("Brick Game")
 
-paddle=pygame.Rect(100,55060,10)
+paddle=pygame.Rect(100,550, 200, 10)
 
 ball=pygame.Rect(50,250,10,10)
 
